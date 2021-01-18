@@ -111,7 +111,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"pages\/info_confroom.html"
+                 "value":"https:\/\/chrisaga.github.io\/testmap\/pages\/info_confroom.html"
                 }],
          "tintcolor":"#aa5500",
          "type":"tilelayer",
@@ -234,7 +234,7 @@
          "y":0
         }],
  "nextlayerid":19,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2021.01.13",
